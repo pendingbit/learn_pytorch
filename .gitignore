@@ -2,3 +2,4 @@
 /models/
 /jupyter/data/
 /jupyter/__pycache__/
+/jupyter/.*
