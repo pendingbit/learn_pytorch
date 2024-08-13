@@ -1,2 +1,4 @@
 /data/
 /models/
+/jupyter/data/
+/jupyter/__pycache__/
