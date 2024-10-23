@@ -1,3 +1,6 @@
-/data/
-/models/
+/jupyter/data/
+/jupyter/models/
 /.ipynb_checkpoints/
+/exercise/data/
+/exercise/models/
+
